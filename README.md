@@ -1,5 +1,5 @@
 ### Hello there👋
 
-Currently working on a few ideas.
+Nice to meet you, I'm Emil. 
 
-Learning R, Python, JS/CSS/HTML 
+Currently working on a few personal projects to learn Python & JS/CSS/HTML 💡
