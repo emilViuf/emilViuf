@@ -10,4 +10,3 @@ Interested in working with R, SQL, Python, JS/CSS/HTML 💡
 <br>
 ____________________________________________________________________________
 <br><br>
-work work 
